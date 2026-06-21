@@ -1,0 +1,12 @@
+# NLP-Based PII Redaction System - Dependencies
+# Python version: 3.7+
+
+# Core NLP Library
+spacy>=3.0.0
+
+# Word Document Generation
+python-docx>=0.8.11
+
+# Optional: For enhanced performance
+# numpy>=1.19.0
+# scikit-learn>=0.24.0
